@@ -33,4 +33,9 @@ ___
 - [ ] Opgave
 - [ ] Opgave
 
+___
+
+## Burndown chart
+[Excel sheet link](https://github.com/MariusGate3/Mini-Eksamensprojekt/blob/main/Burndown%20chart.xlsx)
+
 
