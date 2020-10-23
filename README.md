@@ -36,11 +36,16 @@ ___
 
 | Kildebeskrivelse | Link |
 |------------------|------|
-|Gymnasieelever har ikke kendskab til regnehierakiet og kan ikke løse en førstegradsligning | Kilde: [Berlingske](https://www.berlingske.dk/samfund/hvad-er-75x4-det-mener-gymnasielaerere-ikke-at-deres-elever-ved) 
-
-
+|Gymnasieelever har ikke kendskab til regnehierakiet og kan ikke løse en førstegradsligning | Kilde: [Berlingske](https://www.berlingske.dk/samfund/hvad-er-75x4-det-mener-gymnasielaerere-ikke-at-deres-elever-ved)
+| Der findes en slags modvilje mod matematik | Kilde: [zetland](https://www.zetland.dk/historie/sO9kQ396-aO9kVR61-d9fdd) 
+| En frivillig test blandt de førsteårsstuderende på Copenhagen Business School viser, at omkring 2.000 studerende har behov for et supplerende kursus i basal matematik | Kilde: [Berlingske](https://www.berlingske.dk/samfund/2.000-nye-cbs-studerende-har-brug-for-ekstra-kurser-i-basal-matematik-de) 
+| Matematiklærere giver mange hjælpemidler og huskeregler til eleverne, men alligevel er der nogle elever, der falder i et regnehul og ikke kan finde ud af matematikken. | Kilde: [Fagbladet Folkeskolen ejet af Danmarks lærerforening](https://www.folkeskolen.dk/29428/naar-eleven-falder-i-et-regnehul) 
+| Lærerne oplever, at eleverne har fået ringere grundlæggende færdigheder og dybdeforståelse i matematik, men er blevet bedre til at bruge matematiske værktøjer. | Kilde: [Gymnasieskolen](https://gymnasieskolen.dk/ekspertudvalg-om-faglighed-matematik-er-blevet-mere-komplekst) 
 
 ### Produktprincip
+
+
+
 ___
 
 ## Roadmap
