@@ -22,8 +22,23 @@ ___
 ## Projekt kontrakt
 
 ### Problemidentifikation
-
+>Eleverne har det svært med matematik, og er ikke motiveret til at lære.
 ### Problemanalyse
+
+**Kilder der understøtter problemet i problemidentifikation:**
+
+| Gymnasieelever har ikke kendskab til regnehierakiet og kan ikke løse en førstegradsligning - test - test 
+
+
+
+<br>
+
+
+| Kildebeskrivelse | Link |
+|------------------|------|
+|Gymnasieelever har ikke kendskab til regnehierakiet og kan ikke løse en førstegradsligning | Kilde: [Berlingske](https://www.berlingske.dk/samfund/hvad-er-75x4-det-mener-gymnasielaerere-ikke-at-deres-elever-ved) 
+
+
 
 ### Produktprincip
 ___
