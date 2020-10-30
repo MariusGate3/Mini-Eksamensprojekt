@@ -5,9 +5,8 @@
 >Gamified online skole
 ___
 
-### Indholdsfortegnelse
+Indholdsfortegnelse
 - [Mini Eksamensprojekt](#mini-eksamensprojekt)
-    - [Indholdsfortegnelse](#indholdsfortegnelse)
   - [Opgavebeskrivelse](#opgavebeskrivelse)
   - [Projekt kontrakt](#projekt-kontrakt)
     - [Problemidentifikation](#problemidentifikation)
@@ -61,7 +60,7 @@ Du skal klare alle emner i matematik for at fuldende pusslespillet.
 Du kan fremvise kasssen på din profil.
 
 **Løsning #2**
-<br>
+
 Frø hop.
 ![Billede](/images/FroeSpil.png)
 
