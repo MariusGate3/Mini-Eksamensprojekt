@@ -44,7 +44,23 @@ ___
 
 #### Løsningsforslag
 
+**Løsning #1**
+<br>
+Matematik Pusslespil.
+![Billede](/images/pusslespil.png)
 
+Du skal klare alle emner i matematik for at fuldende pusslespillet.
+
+Du kan fremvise kasssen på din profil.
+
+**Løsning #2**
+<br>
+Frø hop.
+![Billede](/images/FroeSpil.png)
+
+Svar rigtigt på spørgsmålet og hop en åkande frem.
+
+Du kan fremvise kasssen på din profil.
 
 #### PV Skema
 Vægt imellem 1-10
@@ -53,11 +69,11 @@ Score mellem 1-5
 
 | Produktbeskrivelse | krav | krav | krav | krav | PV Rating |
 |--------------------|------|------|------|------|------|
-| Ide #1 | 2*3=10 | s | s | s |
-| Ide #2 |  |  |  |
-| Ide #3 |  |  |  | 
-| Ide #4 |  |  |  | 
-| Ide #5 |  |  |  | 
+| Løsning #1 | 2*3=10 | s | s | s |
+| Løsning #2 |  |  |  |
+| Løsning #3 |  |  |  | 
+| Løsning #4 |  |  |  | 
+| Løsning #5 |  |  |  | 
 ___
 
 ## Iteration Roadmap
