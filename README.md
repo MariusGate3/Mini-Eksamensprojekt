@@ -60,13 +60,12 @@ Du skal klare alle emner i matematik for at fuldende pusslespillet.
 Du kan fremvise kasssen på din profil.
 
 **Løsning #2**
-
 Frø hop.
+
+
 ![Billede](/images/FroeSpil.png)
 
 Svar rigtigt på spørgsmålet og hop en åkande frem.
-
-Du kan fremvise kasssen på din profil.
 
 #### PV Skema
 Vægt imellem 1-10
