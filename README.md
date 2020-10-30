@@ -16,6 +16,7 @@ Indholdsfortegnelse
       - [Brainstorm](#brainstorm)
       - [Løsningsforslag](#løsningsforslag)
       - [PV Skema](#pv-skema)
+    - [Iteration Roadmap](#iteration-roadmap)
     - [Burndown chart](#burndown-chart)
 
 ___
@@ -62,38 +63,32 @@ Du kan fremvise kasssen på din profil.
 **Løsning #2**
 Frø hop.
 
-
 ![Billede](/images/FroeSpil.png)
 
 Svar rigtigt på spørgsmålet og hop en åkande frem.
 
+**Løsning #3**
+Skole system
+![Billede](/images/SkoleSystem.png)
+
+Svar rigtigt på spørgsmålet og hop en åkande frem.
+
 #### PV Skema
-Vægt imellem 1-10
+Vægt imellem 1-5
 <br>
 Score mellem 1-5
 
-| Produktbeskrivelse | krav | krav | krav | krav | PV Rating |
-|--------------------|------|------|------|------|------|
-| Løsning #1 | 2*3=10 | s | s | s |
-| Løsning #2 |  |  |  |
-| Løsning #3 |  |  |  | 
-| Løsning #4 |  |  |  | 
-| Løsning #5 |  |  |  | 
+| Produktbeskrivelse | Indlæring   | Motiverende | Design  | Pris | PV Rating |
+|--------------------|-------------|-------------|---------|------|-----------|
+| **Krav vægt**      |     4       |      5      |   3     |   2  |           |
+| Løsning #1         | 3 * 4 = 12  | 3 * 5 = 15  |3 * 3 = 9|   ?  |    38     |
+| Løsning #2         | 3 * 4 = 12  | 5 * 5 = 25  |4 *  = 12|   ?  |    49     |
+| Løsning #3         | 3 * 4 = 12  | 1 * 5 = 5   |2 * 3 = 6|   ?  |    23     |
+| Løsning #4         |             |             |         |   ?  |           |
+| Løsning #5         |             |             |         |   ?  |           |
 ___
 
-###- [Mini Eksamensprojekt](#mini-eksamensprojekt)
-    - [Indholdsfortegnelse](#indholdsfortegnelse)
-  - [Opgavebeskrivelse](#opgavebeskrivelse)
-  - [Projekt kontrakt](#projekt-kontrakt)
-    - [Problemidentifikation](#problemidentifikation)
-    - [Problemanalyse](#problemanalyse)
-      - [Kilder der understøtter problemet i problemidentifikation](#kilder-der-understøtter-problemet-i-problemidentifikation)
-    - [Produktprincip](#produktprincip)
-      - [Brainstorm](#brainstorm)
-      - [Løsningsforslag](#løsningsforslag)
-      - [PV Skema](#pv-skema)
-    - [Iteration Roadmap](#iteration-roadmap)
-    - [Burndown chart](#burndown-chart) Iteration Roadmap
+### Iteration Roadmap
 - [ ] MVP (minimun viable product) - 1. Iteration - Due date: (10/11/2020/20:00)
 - [ ] 2. Iteration - Due date: (19/11/2020/20:00)
 - [ ] 3. Iteration - Due date: (26/11/2020/22:00)
