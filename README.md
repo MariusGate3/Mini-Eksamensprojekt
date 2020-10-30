@@ -71,7 +71,7 @@ Svar rigtigt på spørgsmålet og hop en åkande frem.
 Skole system
 ![Billede](/images/SkoleSystem.png)
 
-Svar rigtigt på spørgsmålet og hop en åkande frem.
+Svar rigtigt og få en karakter.
 
 #### PV Skema
 Vægt imellem 1-5
