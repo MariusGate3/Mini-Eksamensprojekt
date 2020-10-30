@@ -25,11 +25,7 @@ ___
 >Eleverne har det svært med matematik, og er ikke motiveret til at lære.
 ### Problemanalyse
 
-**Kilder der understøtter problemet i problemidentifikation:**
-
-| Gymnasieelever har ikke kendskab til regnehierakiet og kan ikke løse en førstegradsligning - test - test 
-
-
+#### Kilder der understøtter problemet i problemidentifikation
 
 <br>
 
@@ -44,7 +40,7 @@ ___
 
 ### Produktprincip
 
-Brainstorm:
+![Brainstorm](/images/mindmap.png)
 
 PVX Skema:
 
@@ -58,6 +54,6 @@ ___
 ___
 
 ## Burndown chart
-[Excel sheet link](https://github.com/MariusGate3/Mini-Eksamensprojekt/blob/main/Burndown%20chart.xlsx)
+[Excel sheet link](https://drive.google.com/file/d/1BA4COUAmAu_eMSIAFlnVrCejI9rT1cL9/view?usp=sharing)
 
 
