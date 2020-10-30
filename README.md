@@ -39,17 +39,31 @@ ___
 | Lærerne oplever, at eleverne har fået ringere grundlæggende færdigheder og dybdeforståelse i matematik, men er blevet bedre til at bruge matematiske værktøjer. | Kilde: [Gymnasieskolen](https://gymnasieskolen.dk/ekspertudvalg-om-faglighed-matematik-er-blevet-mere-komplekst) 
 
 ### Produktprincip
-
+#### Brainstorm
 ![Brainstorm](/images/mindmap.png)
 
-PVX Skema:
+#### Løsningsforslag
 
+
+
+#### PV Skema
+Vægt imellem 1-10
+<br>
+Score mellem 1-5
+
+| Produktbeskrivelse | krav | krav | krav | krav | PV Rating |
+|--------------------|------|------|------|------|------|
+| Ide #1 | 2*3=10 | s | s | s |
+| Ide #2 |  |  |  |
+| Ide #3 |  |  |  | 
+| Ide #4 |  |  |  | 
+| Ide #5 |  |  |  | 
 ___
 
-## Roadmap
-- [ ] Opgave
-- [ ] Opgave
-- [ ] Opgave
+## Iteration Roadmap
+- [ ] MVP (minimun viable product) - 1. Iteration - Due date: (10/11/2020/20:00)
+- [ ] 2. Iteration - Due date: (19/11/2020/20:00)
+- [ ] 3. Iteration - Due date: (26/11/2020/22:00)
 
 ___
 
